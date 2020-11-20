@@ -5,6 +5,7 @@ export default function PoemPage(props) {
   const poem = POEMS.find(p =>
     p.id === props.match.params.poemId
   )
+  console.log(poem)
   return (
     <article className='Poem'>
       <h2>{poem.title}</h2>
