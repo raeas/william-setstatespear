@@ -1,4 +1,4 @@
-# Laptop Customizer
+# William Setstatespear 
 
 This project is an exercise for Thinkful's "React Router" checkpoint
 
